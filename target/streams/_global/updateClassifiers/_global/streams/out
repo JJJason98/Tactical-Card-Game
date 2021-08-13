@@ -1,0 +1,4 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/C:/Users/15092/Desktop/UofG/IT+%20Team%20Project_5074/ITSD-DT2021-Template/ITSD-DT2021-Template/"), "root")...
+[debug] Done updating ProjectRef(uri("file:/C:/Users/15092/Desktop/UofG/IT+%20Team%20Project_5074/ITSD-DT2021-Template/ITSD-DT2021-Template/"), "root")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
